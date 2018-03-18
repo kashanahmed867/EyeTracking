@@ -1,0 +1,9 @@
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\bin\Debug\EyeTracking.exe.config
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\bin\Debug\EyeTracking.exe
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\bin\Debug\EyeTracking.pdb
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.csprojResolveAssemblyReference.cache
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.Properties.Resources.resources
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.csproj.GenerateResource.Cache
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.exe
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.pdb
+c:\users\kashan\documents\visual studio 2015\Projects\EyeTracking\EyeTracking\obj\Debug\EyeTracking.Form1.resources
